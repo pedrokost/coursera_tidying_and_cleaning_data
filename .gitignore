@@ -1,7 +1,13 @@
 # History files
 .Rhistory
 
-UCI HAR Dataset
+UCI HAR Dataset/test
+UCI HAR Dataset/train
+UCI HAR Dataset/README.txt
+UCI HAR Dataset/activity_labels.txt
+UCI HAR Dataset/features.txt
+UCI HAR Dataset/features_info.txt
+
 
 # Example code in package build process
 *-Ex.R

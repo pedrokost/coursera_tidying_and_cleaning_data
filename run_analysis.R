@@ -1,5 +1,4 @@
 library(reshape2)
-require("data.table")
 
 dataFolder  = 'UCI HAR Dataset'
 testFolder  = file.path(dataFolder, 'test')
